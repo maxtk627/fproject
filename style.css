@@ -1,1 +1,143 @@
-
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.sflex-container{
+    display: flex;
+    flex-direction: row;
+}
+.tflex-container{
+    display: flex;
+    flex-direction: row;
+}
+.tflex-container1{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #66CDAA;
+margin: 15px;
+padding-left: 15px;
+}
+.timg-item1{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge #66CDAA;
+}
+.tflex-container2{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #66CDAA;
+margin: 15px;
+padding-left: 15px;
+}
+.timg-item2{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge #66CDAA;
+}
+.sflex-container1{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #FFD700;
+margin: 15px;
+padding-left: 15px;
+}
+.sflex-container2{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #DB7093;
+margin: 15px;
+padding-left: 15px;
+}
+.sflex-container3{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #008000;
+margin: 15px;
+padding-left: 15px;
+}
+.simg-item1{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge rgba(211, 220, 50);
+}
+.simg-item2{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge #DB7093;
+}
+.simg-item3{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge #006400;
+}
+.scontent-item{
+  width: 300px;
+}
+.flex-container1{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #4682B4;
+margin: 15px;
+padding-left: 15px;
+}
+.flex-container2{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #F0E68C;
+margin: 15px;
+padding-left: 15px;
+}
+.flex-container3{
+display: flex;
+flex-direction: row;
+width: 300px;
+background-color: #8A2BE2;
+margin: 15px;
+padding-left: 15px;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.img-item1{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge #4682B4;
+}
+.img-item2{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge rgba(240, 230, 140);
+}
+.img-item3{
+  width: 300px;
+  height: 300px;
+  border: 10px ridge rgba(138, 43, 226);
+}
+.content-item{
+  width: 300px;
+}
+h2{
+  text-decoration: underline;
+  font-style: italic;
+}
+html {
+  background-image: url(1ddd.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
